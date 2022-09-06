@@ -4,6 +4,9 @@ Burger
 Palak Paneer
 vegetables saute
 
+Beans
+Pizza
+
 
 
 Thank you
